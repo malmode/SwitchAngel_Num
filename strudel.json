@@ -1,6 +1,6 @@
 {"_base":"https://raw.githubusercontent.com/malmode/SwitchAngel_Num/main/",
- "count":["sounds/count/count0.wav"],
- "count":["sounds/count/count/count-Marker#1.wav"],
+ "count:0:0":["sounds/count/count0.wav"],
+ "count:1:0":["sounds/count/count/count-Marker#1.wav"],
  "count":["sounds/count/count/count-Marker#10.wav"],
  "count":["sounds/count/count-Marker#11.wav"],
  "count":["sounds/count/count-Marker#12.wav"],
@@ -35,5 +35,6 @@
  "count":["sounds/count/count-Marker#8.wav"],
  "count":["sounds/count/count-Marker#9.wav"]
 }
+
 
 
